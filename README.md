@@ -1,5 +1,5 @@
 # IBM-Applied-Data-Science-Capstone
-SpaceX Falcon 9 Landing Prediction
+### SpaceX Falcon 9 Landing Prediction
 
 #### Project Report
 https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/Capstone%20Project%20Report.pdf
