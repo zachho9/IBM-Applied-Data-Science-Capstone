@@ -24,7 +24,7 @@
 
 #### 8. Build a Dashboard with Plotly Dash
 [spacex_dash_app.py](https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/spacex_dash_app.py)  
-[data csv](https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/spacex_launch_dash.csv)
+[data csv file](https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/spacex_launch_dash.csv)
 
 #### 9. Machine Learning Predictive Analysis
 [Machine Learning Prediction.ipynb](https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/Machine%20Learning%20Prediction.ipynb)
