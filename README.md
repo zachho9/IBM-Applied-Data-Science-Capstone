@@ -2,29 +2,29 @@
 ### Project Title: SpaceX Falcon 9 Landing Prediction
 
 #### 1. Project Report
-[Capstone Project Report.pdf](https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/Capstone%20Project%20Report.pdf)
+<a href="https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/Capstone%20Project%20Report.pdf" target="_blank">Capstone Project Report.pdf</a>
 
 #### 2. Data Collection with SpaceX API
-[Data Collection API.ipynb](https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/Data%20Collection%20API.ipynb)
+<a href="https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/Data%20Collection%20API.ipynb" target="_blank">Data Collection API.ipynb</a>
 
 #### 3. DAta Collection with Web Scraping data from wikipedia page
-[Data Collection with Web Scraping.ipynb](https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/Data%20Collection%20with%20Web%20Scraping.ipynb)
+<a href="https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/Data%20Collection%20with%20Web%20Scraping.ipynb" target="_blank">Data Collection with Web Scraping.ipynb</a>
 
 #### 4. Data Wrangling
-[Data Wrangling.ipub](https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/Data%20Wrangling.ipynb)
+<a href="https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/Data%20Wrangling.ipynb" target="_blank">Data Wrangling.ipyub</a>
 
 #### 5. Exploratory Data Analysis with SQL
-[EDA with SQL.ipynb](https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/EDA%20with%20SQL.ipynb)
+<a href="https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/EDA%20with%20SQL.ipynb" target="_blank">EDA with SQL.ipynb</a>
 
 #### 6. Exploratory Data Analysis with Data Visualization
-[EDA with Data Visualization.ipynb](https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/EDA%20with%20Data%20Visualization.ipynb)
+<a href="https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/EDA%20with%20Data%20Visualization.ipynb" target="_blank">EDA with Data Visualization.ipynb</a>
 
 #### 7. Build an Interactive Map with Folium
-[Interactive Visual Analytics with Folium lab.ipynb](https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/Interactive%20Visual%20Analytics%20with%20Folium%20lab.ipynb)
+<a href="https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/Interactive%20Visual%20Analytics%20with%20Folium%20lab.ipynb" target="_blank">Interactive Visual Analytics with Folium lab.ipynb</a>
 
 #### 8. Build a Dashboard with Plotly Dash
-[spacex_dash_app.py](https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/spacex_dash_app.py)  
-[data csv file](https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/spacex_launch_dash.csv)
+<a href="https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/spacex_dash_app.py" target="_blank">spacex_dash_app.py</a>\
+<a href="https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/spacex_launch_dash.csv" target="_blank">dataset csv</a>
 
 #### 9. Machine Learning Predictive Analysis
-[Machine Learning Prediction.ipynb](https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/Machine%20Learning%20Prediction.ipynb)
+<a href="https://github.com/zachho9/IBM-Applied-Data-Science-Capstone/blob/master/Machine%20Learning%20Prediction.ipynb" target="_blank">Machine Learning Prediction.ipynb</a>
